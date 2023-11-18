@@ -47,21 +47,6 @@
     ]
    }
    ```
-1. Please make below tasks described in docstring of functions in 7 days.
-2. Changes out of functions body are not allowed.
-3. Additional imports are not allowed.
-4. Send us your solution (only tasks.py) through link in email.
-   In annotations write how much time you spent for each function.
-5. The data in the file is normalized.
-6. Skip additional functionalities not described directly (like sorting).
-7. First we will run automatic tests checking (using: 1 mln and 100 mln items):
-   a) proper results and edge cases
-   b) CPU usage
-   c) memory usage
-8. If your solution will NOT pass automatic tests (we allow some errors)
-   application will be automatically rejected without additional feedback.
-   You can apply again after 90 days.
-9. Our develepers will review code (structure, clarity, logic).
 """
 import datetime
 import collections
